@@ -1,7 +1,25 @@
 # ASL
 The official implementation of "A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection" (AAAI 2023)
 
-## The proposed dataset
+## The proposed NDEC dataset
+**Training set**
+
+[The 100,000 negative pairs](https://drive.google.com/file/d/1Cc_8yj2vhKTA8aRROMUavp9zUkI72Cgm/view) 
+
+[The original 100,000 training images from ISC2021]()
+
+**Reference set**
+
+[The original 100,000 reference images from ISC2021]()
+
+**Query set**
+
+[The collected 49,252 query images](https://drive.google.com/file/d/10CKPivz-uHo4KMdEzeMtBbhFkfnaMtzq/view)
+
+**Groudtruth**
+
+[The groundtruth file for the query set](https://drive.google.com/file/d/1ZrPNoa3mTAxl6lViVjNtN90i20VSuzJs/view?usp=share_link)
+
 
 ## ASL 
 Coming soon!
