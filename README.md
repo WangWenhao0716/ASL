@@ -64,7 +64,7 @@ If you use the proposed dataset or find the ASL helpful, please cite our work:
 }
 ```
 
-Our work is mainly based on our two former competition winner solutions:
+Our work is mainly based on our two former competition (ISC2021) winner solutions:
 
 ```
 @article{wang2021d,
@@ -82,7 +82,7 @@ Our work is mainly based on our two former competition winner solutions:
   year={2021}
 }
 ```
-The competition conclusion:
+The ISC2021 competition conclusion:
 ```
 
 @InProceedings{pmlr-v176-papakipos22a,
