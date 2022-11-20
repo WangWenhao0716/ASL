@@ -22,7 +22,30 @@ The original 100,000 reference images from ISC2021: Please refer to [Meta AI dow
 
 
 ## ASL 
-Coming soon!
+**Step 1**
+
+Please first review the code of two baselines in our paper from [D^2LV](https://github.com/WangWenhao0716/ISC-Track1-Submission) and [BoT](https://github.com/WangWenhao0716/ISC-Track2-Submission).
+
+**Step 2**
+
+Please refer to the ```train.py``` for the norm-ratio based loss.
+
+**Step 3**
+
+Please integrate  the ```train.py``` into the training code of Step 1.
+
+**Step 4**
+
+Please refer to the ```test.py``` to find our how we perform testing.
+
+**Step 5**
+
+Please integrate the ```test.py``` into the test code of Step 1.
+
+**Step 6 (Optional)**
+
+You can also integrate ```train.py``` and ```test.py``` to other baselines, such as [EsViTp](https://github.com/sun-xl/ISC2021), [CNNCL](https://github.com/lyakaap/ISC21-Descriptor-Track-1st), and [EfNet](https://github.com/socom20/facebook-image-similarity-challenge-2021).
+
 
 ## Citation
 
