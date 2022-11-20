@@ -6,11 +6,11 @@ The official implementation of "A Benchmark and Asymmetrical-Similarity Learning
 
 [The 100,000 negative pairs](https://drive.google.com/file/d/1Cc_8yj2vhKTA8aRROMUavp9zUkI72Cgm/view) 
 
-[The original 100,000 training images from ISC2021]()
+The original 100,000 training images from ISC2021: Please refer to [Meta AI download page](https://ai.facebook.com/datasets/disc21-dataset/)
 
 **Reference set**
 
-[The original 100,000 reference images from ISC2021]()
+The original 100,000 reference images from ISC2021: Please refer to [Meta AI download page](https://ai.facebook.com/datasets/disc21-dataset/)
 
 **Query set**
 
