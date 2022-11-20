@@ -64,7 +64,7 @@ If you use the proposed dataset or find the ASL helpful, please cite our work:
 }
 ```
 
-Our work is mainly based on our two former competition reports:
+Our work is mainly based on our two former competition winner solutions:
 
 ```
 @article{wang2021d,
