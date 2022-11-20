@@ -2,6 +2,9 @@
 The official implementation of "A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection" (AAAI 2023)
 
 ## The proposed NDEC dataset
+
+![image](https://github.com/WangWenhao0716/ASL/blob/main/NDEC.png)
+
 **Training set**
 
 [The 100,000 negative pairs](https://drive.google.com/file/d/1Cc_8yj2vhKTA8aRROMUavp9zUkI72Cgm/view) 
@@ -22,6 +25,9 @@ The original 100,000 reference images from ISC2021: Please refer to [Meta AI dow
 
 
 ## ASL 
+
+![image](https://github.com/WangWenhao0716/ASL/blob/main/ASL.png)
+
 **Step 1**
 
 Please first review the code of two baselines in our paper from [D^2LV](https://github.com/WangWenhao0716/ISC-Track1-Submission) and [BoT](https://github.com/WangWenhao0716/ISC-Track2-Submission).
