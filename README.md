@@ -10,7 +10,7 @@ Coming soon!
 
 If you use the proposed dataset or find the ASL helpful, please cite our work:
 ```
-@inproceedings{wang2021benchmark,
+@inproceedings{wang2023benchmark,
   title={A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection},
   author={Wenhao Wang and Yifan Sun and Yi Yang},
   booktitle={Association for the Advancement of Artificial Intelligence},
