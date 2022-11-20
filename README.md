@@ -82,3 +82,21 @@ Our work is mainly based on our two former competition winner solutions:
   year={2021}
 }
 ```
+The competition conclusion:
+```
+
+@InProceedings{pmlr-v176-papakipos22a,
+  title = 	 {Results and findings of the 2021 Image Similarity Challenge},
+  author =       {Papakipos, Zo\"e and Tolias, Giorgos and Jenicek, Tomas and Pizzi, Ed and Yokoo, Shuhei and Wang, Wenhao and Sun, Yifan and Zhang, Weipu and Yang, Yi and Addicam, Sanjay and Papadakis, Sergio Manuel and Ferrer, Cristian Canton and Chum, Ond{\v{r}}ej and Douze, Matthijs},
+  booktitle = 	 {Proceedings of the NeurIPS 2021 Competitions and Demonstrations Track},
+  pages = 	 {1--12},
+  year = 	 {2022},
+  editor = 	 {Kiela, Douwe and Ciccone, Marco and Caputo, Barbara},
+  volume = 	 {176},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {06--14 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v176/papakipos22a/papakipos22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v176/papakipos22a.html},
+}
+```
