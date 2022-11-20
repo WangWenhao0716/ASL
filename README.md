@@ -1,5 +1,4 @@
-# ASL
-The official implementation of "A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection" (AAAI 2023)
+# A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection (AAAI 2023)
 
 ## The proposed NDEC dataset
 
