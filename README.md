@@ -57,9 +57,12 @@ You can also integrate ```train.py``` and ```test.py``` to other baselines, such
 If you use the proposed dataset or find the ASL helpful, please cite our work:
 ```
 @inproceedings{wang2023benchmark,
-  title={A Benchmark and Asymmetrical-Similarity Learning for Practical Image Copy Detection},
-  author={Wenhao Wang and Yifan Sun and Yi Yang},
-  booktitle={AAAI Conference on Artificial Intelligence},
+  title={A benchmark and asymmetrical-similarity learning for practical image copy detection},
+  author={Wang, Wenhao and Sun, Yifan and Yang, Yi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={3},
+  pages={2672--2679},
   year={2023}
 }
 ```
