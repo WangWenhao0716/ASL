@@ -6,7 +6,9 @@
 
 **Training set**
 
-[The 100,000 negative pairs](https://drive.google.com/file/d/1Cc_8yj2vhKTA8aRROMUavp9zUkI72Cgm/view) 
+The 100,000 negative pairs: [negative_pair.tar.aa](https://huggingface.co/datasets/WenhaoWang/ASL/resolve/main/negative_pair.tar.aa), [negative_pair.tar.ab](https://huggingface.co/datasets/WenhaoWang/ASL/resolve/main/negative_pair.tar.ab), and [negative_pair.tar.ac](https://huggingface.co/datasets/WenhaoWang/ASL/resolve/main/negative_pair.tar.ac). 
+
+After downloading: `cat negative_pair.tar.* | tar -xvf -`
 
 The original 100,000 training images from ISC2021: Please refer to [Meta AI download page](https://ai.facebook.com/datasets/disc21-dataset/)
 
