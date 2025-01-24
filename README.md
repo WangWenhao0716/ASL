@@ -16,7 +16,7 @@ The original 100,000 reference images from ISC2021: Please refer to [Meta AI dow
 
 **Query set**
 
-[The collected 49,252 query images](https://drive.google.com/file/d/10CKPivz-uHo4KMdEzeMtBbhFkfnaMtzq/view)
+[The collected 49,252 query images](https://huggingface.co/datasets/WenhaoWang/ASL/resolve/main/query_images_h5.tar)
 
 **Groudtruth**
 
